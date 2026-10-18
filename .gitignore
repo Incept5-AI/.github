@@ -1,0 +1,4 @@
+# Project repos are cloned here but tracked separately
+/*/
+!/profile/
+.DS_Store
